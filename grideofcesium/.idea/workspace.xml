@@ -563,6 +563,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="grideofcesium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grideofcesium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="Cesium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -625,12 +636,12 @@
       <option name="presentableId" value="Default" />
       <updated>1580796407397</updated>
       <workItem from="1580796408549" duration="2105000" />
-      <workItem from="1580799234927" duration="6350000" />
+      <workItem from="1580799234927" duration="7244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8455000" />
+    <option name="totallyTimeSpent" value="9349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="23" width="1829" height="1036" extended-state="0" />
@@ -667,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/js/text.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Cesium.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/html/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -682,8 +690,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/html/mapViewer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="160">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Cesium.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="27497" selection-start-line="27497" selection-end-line="27497" />
         </state>
       </provider>
     </entry>

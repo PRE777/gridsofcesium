@@ -20,4 +20,4 @@
  * Portions licensed separately.
  * See https://github.com/AnalyticalGraphicsInc/cesium/blob/master/LICENSE.md for full licensing details.
  */
-define(["exports","./when-0488ac89"],function(e, c){"use strict";var r=c.freezeObject({NONE:0,GEODESIC:1,RHUMB:2});e.ArcType=r});
+define(["exports","./when-0488ac89"],function(e,c){"use strict";var r=c.freezeObject({NONE:0,GEODESIC:1,RHUMB:2});e.ArcType=r});
