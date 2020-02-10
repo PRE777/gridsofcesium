@@ -1,180 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732c760a-3beb-454b-b0ad-6103eed20fce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/grideofcesium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/grideofcesium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Cesium_js.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/html/mapViewer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/html/mapViewer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_10.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_10.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_11.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_12.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_13.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_14.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_15.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_15.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_16.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_17.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_19.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_19.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_20.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_20.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_21.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_22.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_23.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_24.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_24.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_25.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_25.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_26.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_26.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_27.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_27.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_6.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_7.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_8.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_9.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/IAU2006_XYS/IAU2006_XYS_9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/Textures/NaturalEarthII/tilemapresource.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/approximateTerrainHeights.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Assets/approximateTerrainHeights.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Cesium.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Cesium.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/deflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/deflate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/draco_decoder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/draco_decoder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/draco_wasm_wrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/draco_wasm_wrapper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/inflate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/Workers/inflate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/google-earth-dbroot-parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/ThirdParty/google-earth-dbroot-parser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Animation/Animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Animation/Animation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Animation/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Animation/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/BaseLayerPicker/BaseLayerPicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/BaseLayerPicker/BaseLayerPicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/BaseLayerPicker/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/BaseLayerPicker/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Cesium3DTilesInspector/Cesium3DTilesInspector.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/CesiumInspector/CesiumInspector.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/CesiumInspector/CesiumInspector.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/CesiumWidget/CesiumWidget.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/CesiumWidget/CesiumWidget.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/CesiumWidget/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/CesiumWidget/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/FullscreenButton/FullscreenButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/FullscreenButton/FullscreenButton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Geocoder/Geocoder.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Geocoder/Geocoder.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Geocoder/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Geocoder/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/Mouse.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/Mouse.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/MouseLeft.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/MouseLeft.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/MouseMiddle.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/MouseRight.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/MouseRight.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/Touch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/Touch.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchDrag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchDrag.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchRotate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchRotate.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchTilt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchTilt.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchZoom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Images/NavigationHelp/TouchZoom.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/InfoBox/InfoBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/InfoBox/InfoBox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/InfoBox/InfoBoxDescription.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/InfoBox/InfoBoxDescription.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/NavigationHelpButton/NavigationHelpButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/NavigationHelpButton/NavigationHelpButton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/NavigationHelpButton/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/NavigationHelpButton/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/PerformanceWatchdog/PerformanceWatchdog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/PerformanceWatchdog/PerformanceWatchdog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/ProjectionPicker/ProjectionPicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/ProjectionPicker/ProjectionPicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/SceneModePicker/SceneModePicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/SceneModePicker/SceneModePicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/SelectionIndicator/SelectionIndicator.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/SelectionIndicator/SelectionIndicator.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Timeline/Timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Timeline/Timeline.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Timeline/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Timeline/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/VRButton/VRButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/VRButton/VRButton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Viewer/Viewer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/Viewer/Viewer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/lighter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/lighter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/lighterShared.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/lighterShared.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/shared.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Widgets/widgets.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/ArcType-318ba758.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/AttributeCompression-fe1560e2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/BoundingRectangle-841fd6c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/BoxGeometry-26fd2c5e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/Cartesian2-cc1e6450.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/Check-78ca6843.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/Color-9b5f0c1e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/ComponentDatatype-9252f28f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/CoplanarPolygonGeometryLibrary-f0318965.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/CorridorGeometryLibrary-3ee5208b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/CylinderGeometry-3ea2a564.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/CylinderGeometryLibrary-3d1c0916.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipseGeometry-e762155f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipseGeometryLibrary-ff71c40e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipseOutlineGeometry-bfb43cb4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipsoidGeodesic-80f12c10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipsoidGeometry-db1b6906.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipsoidOutlineGeometry-c49c22db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipsoidRhumbLine-9e95354f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EllipsoidTangentPlane-70069c84.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/EncodedCartesian3-97ac8d01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/FrustumGeometry-c9257195.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/GeometryAttribute-3345e440.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/GeometryAttributes-3227db5b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/GeometryInstance-2a7fafaf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/GeometryOffsetAttribute-22febf92.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/GeometryPipeline-587f449d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/IndexDatatype-8575c917.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/IntersectionTests-12255a09.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/Math-8a4c9da1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/OrientedBoundingBox-5e4e94f2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/Plane-466db411.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/PolygonGeometryLibrary-fa262d54.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/PolygonPipeline-5e2e1765.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/PolylinePipeline-1e8e81a9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/PolylineVolumeGeometryLibrary-33e75d33.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/PrimitivePipeline-0d9185c5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/RectangleGeometryLibrary-adc87960.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/RuntimeError-4d6e0952.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/TerrainEncoding-05a676fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/Transforms-fa4f10bc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/VertexFormat-7996cb24.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/WallGeometryLibrary-384458db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/WebGLConstants-66e14a3b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/WebMercatorProjection-c0de4fbc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/arrayRemoveDuplicates-c6db543d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/cesiumWorkerBootstrapper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/cesiumWorkerBootstrapper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/combineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/combineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createBoxGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createBoxGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createBoxOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createBoxOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCircleGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCircleGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCircleOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCircleOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCoplanarPolygonGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCoplanarPolygonGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCoplanarPolygonOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCoplanarPolygonOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCorridorGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCorridorGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCorridorOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCorridorOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCylinderGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCylinderGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCylinderOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createCylinderOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipseGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipseGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipseOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipseOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipsoidGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipsoidGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipsoidOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createEllipsoidOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createFrustumGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createFrustumGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createFrustumOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createFrustumOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createGroundPolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createGroundPolylineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPlaneGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPlaneGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPlaneOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPlaneOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolygonGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolygonGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolygonOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolygonOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolylineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolylineVolumeGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolylineVolumeGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolylineVolumeOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createPolylineVolumeOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createRectangleGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createRectangleGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createRectangleOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createRectangleOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createSimplePolylineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createSimplePolylineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createSphereGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createSphereGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createSphereOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createSphereOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createTaskProcessorWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTileGeometries.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTileGeometries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTilePoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTilePoints.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTilePolygons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTilePolygons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTilePolylines.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVectorTilePolylines.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVerticesFromGoogleEarthEnterpriseBuffer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVerticesFromHeightmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVerticesFromHeightmap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVerticesFromQuantizedTerrainMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createVerticesFromQuantizedTerrainMesh.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createWallGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createWallGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createWallOutlineGeometry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/createWallOutlineGeometry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/decodeDraco.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/decodeDraco.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/decodeGoogleEarthEnterprisePacket.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/decodeGoogleEarthEnterprisePacket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/defineProperties-c6a70625.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/transcodeCRNToDXT.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/transcodeCRNToDXT.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/transferTypedArrayTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/transferTypedArrayTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/upsampleQuantizedTerrainMesh.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/upsampleQuantizedTerrainMesh.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/src/lib/Cesium/Workers/when-0488ac89.js" beforeDir="false" />
-    </list>
+    <list default="true" id="732c760a-3beb-454b-b0ad-6103eed20fce" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -274,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/html/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="390">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -286,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/html/mapViewer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -436,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.mapViewer.html">
+  <component name="RunManager" selected="JavaScript Debug.main.html">
     <configuration name="main.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/grideofcesium/src/main/resources/static/src/html/main.html">
       <method v="2" />
     </configuration>
@@ -449,8 +276,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.mapViewer.html" />
         <item itemvalue="JavaScript Debug.main.html" />
+        <item itemvalue="JavaScript Debug.mapViewer.html" />
       </list>
     </recent_temporary>
   </component>
@@ -472,10 +299,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13533000" />
+    <option name="totallyTimeSpent" value="13536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -517,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/html/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -527,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/src/html/mapViewer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

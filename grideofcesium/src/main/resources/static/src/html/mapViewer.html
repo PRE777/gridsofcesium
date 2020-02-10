@@ -2,6 +2,8 @@
 
 <style>
     @import url(../lib/Cesium/Widgets/widgets.css);
+    html,
+    body,
     #cesiumContainer {
         width: 100%;
         height: 100%;
@@ -16,12 +18,12 @@
     }
 </style>
 <div id="cesiumContainer">
-    <!--<div id="viewer"></div>-->
+    <div id="viewer"></div>
 </div>
 <script src="../lib/Cesium/Cesium.js"></script>
 
 <script>
-    var viewer = new Cesium.Viewer('cesiumContainer', {
+    var viewer = new Cesium.Viewer('viewer', {
         sceneMode: Cesium.SceneMode.SCENE2D,//设置初始场景模式为2D
         animation : false,//是否创建动画小器件，左下角仪表
         baseLayerPicker : false,//是否显示图层选择器
