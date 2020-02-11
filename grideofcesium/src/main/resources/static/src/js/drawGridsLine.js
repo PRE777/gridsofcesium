@@ -1,10 +1,9 @@
-var drawLon;
-var drawLat;
+
 var maxLng = 0.0;
 var minLng = 0.0;
 var maxLat = 0.0;
 var minLat = 0.0;
-// var gridLineColor = new Cesium.ColorGeometryInstanceAttribute(253/255, 228/255, 225/255, 0.5);
+// var gridLineColor = new Cesium.ColorGeometryInstanceAttribute(253/255, 228/255, 225/255, 0.1);
 var gridLineColor = new Cesium.ColorGeometryInstanceAttribute(33 / 255, 33 / 255, 33 / 255, 0.5);
 
 //网格
@@ -14,12 +13,6 @@ setTimeout(function () {
     viewer.scene.primitives.add(global_grid_primitives1);
 }, 2000)
 
-/*
- * 监听屏幕范围
-*/
-function screenChangedlistter() {
-    viewer.scene.camera.moveEnd.addEventListener(drawGrid);
-}
 
 /*
  *cesium画网格
@@ -115,8 +108,8 @@ function drawGridByGeoLevel(geolevel) {
 /*
  * 监听屏幕范围
 */
-function listter() {
-    viewer.scene.camera.moveEnd.addEventListener(drawGrid)
+function screenChangedlistter() {
+    viewer.scene.camera.moveEnd.addEventListener(drawGrid);
 }
 
 /*
