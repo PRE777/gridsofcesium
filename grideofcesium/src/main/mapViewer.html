@@ -1,5 +1,5 @@
 <style>
-    @import url(../lib/Cesium/Widgets/widgets.css);
+    @import url(resources/static/src/lib/Cesium/Widgets/widgets.css);
 
     html,
     body,
@@ -18,7 +18,9 @@
 <div id="cesiumContainer">
     <div id="viewer"></div>
 </div>
-<script src="../lib/Cesium/Cesium.js"></script>
+<script src="resources/static/src/lib/Cesium/Cesium.js"></script>
+<script src="resources/static/src/js/httprequest.js"></script>
+<script src="resources/static/src/js/drawGridsLine.js"></script>
 
 <script>
     var viewer = new Cesium.Viewer('viewer', {
@@ -53,4 +55,8 @@
     viewer.camera.setView({
         destination: Cesium.Cartesian3.fromDegrees(108.50, 33.50, 10000000)
     });
+
+    // drawGrid();
+    screenChangedlistter();
+
 </script>
