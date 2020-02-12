@@ -1,4 +1,3 @@
-
 var maxLng = 0.0;
 var minLng = 0.0;
 var maxLat = 0.0;
@@ -8,11 +7,11 @@ var gridLineColor = new Cesium.ColorGeometryInstanceAttribute(33 / 255, 33 / 255
 
 //网格
 var global_grid_primitives1 = new Cesium.PrimitiveCollection();
+var viewer = "";
 
 setTimeout(function () {
     viewer.scene.primitives.add(global_grid_primitives1);
-}, 2000)
-
+}, 2000);
 
 /*
  *cesium画网格
@@ -108,7 +107,10 @@ function drawGridByGeoLevel(geolevel) {
 /*
  * 监听屏幕范围
 */
-function screenChangedlistter() {
+function screenChangedlistter(view = null) {
+    if (view){
+        viewer = view;
+    }
     viewer.scene.camera.moveEnd.addEventListener(drawGrid);
 }
 
